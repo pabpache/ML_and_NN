@@ -1,0 +1,1 @@
+run 'example_test.py' to get the total cost
